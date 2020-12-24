@@ -1,0 +1,3 @@
+This project is a feature-branch based project. For any bug fixes or new features, create a branch off of master to develop,
+then simply submit a Pull Request from that branch into master. Try to keep branches as basic/straightforward as possible,
+basically, don't fix 18 bugs in one branch, and don't introduce fifteen new features in one branch.
